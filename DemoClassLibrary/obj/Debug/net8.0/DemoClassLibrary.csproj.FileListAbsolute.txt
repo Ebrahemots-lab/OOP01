@@ -1,0 +1,11 @@
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\bin\Debug\net8.0\DemoClassLibrary.deps.json
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\bin\Debug\net8.0\DemoClassLibrary.dll
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\bin\Debug\net8.0\DemoClassLibrary.pdb
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\obj\Debug\net8.0\DemoClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\obj\Debug\net8.0\DemoClassLibrary.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\obj\Debug\net8.0\DemoClassLibrary.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\obj\Debug\net8.0\DemoClassLibrary.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\obj\Debug\net8.0\DemoClassLibrary.dll
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\obj\Debug\net8.0\refint\DemoClassLibrary.dll
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\obj\Debug\net8.0\DemoClassLibrary.pdb
+D:\Diploma\C#\OOP\Route\Session01\ConsoleApp1\DemoClassLibrary\obj\Debug\net8.0\ref\DemoClassLibrary.dll
